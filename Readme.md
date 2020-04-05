@@ -10,7 +10,7 @@ your PC and start working with it on one's localhost.
 
 #### Linux
 
-First of all, using terminal update all the packages to make sure that
+First of all, using terminal, update all the packages to make sure that
 everything will work properly:
 
 `$ sudo apt-get update`
@@ -150,5 +150,6 @@ you get back to your dashboard.
 Clicking on the same icon of floppy disk on this page (it is also placed
 on the top of the screen), you save your dashboard.
 
-**Congratulations!** You've just made your first dashboard in Grafana.
-Hope this guide was useful for you.
+### Congratulations! 
+
+You've just made your first dashboard in Grafana. Hope this guide was useful for you.
