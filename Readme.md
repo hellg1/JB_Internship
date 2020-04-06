@@ -32,7 +32,7 @@ http://hub.docker.com/editions/community/docker-ce-desktop-windows
 **MacOS**:
 http://hub.docker.com/editions/community/docker-ce-desktop-mac
 
-Everything you need to do is to download installer and then follow it's
+Everything you need to do is to download installer and then follow its
 instructions.
 
 *Done!*
@@ -105,15 +105,15 @@ highlighted in orange*), visualization and settings.
 ![](figures/6.png)
 
 Now you need to choose to the which database you want to create a query
-and choose it's scenario. In the dropdown, choose your database.
+and choose its scenario. In the dropdown, choose your database.
 
 ![](figures/7.png)
 
 Also you may choose a scenario. Since it's test data, let's focus on the
 default called **"Random walk"**. If you want, later you can train
-yorself creating panels with different scenarios.
+yourself creating panels with different scenarios.
 
-Scenario is chosen. Now we need to choose to visualization. On the left
+Scenario is chosen. Now we need to choose the visualization. On the left
 side of the screen there is a sidebar. Click on the second from the top
 icon and you will get to the visualization menu:
 
